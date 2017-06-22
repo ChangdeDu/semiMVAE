@@ -20,7 +20,21 @@ Implements the semi-supervised multi-view variational autoencoder (semiMVAE) in 
 
 - run the file semiMVAE.py directly. 
 
+## Cite
+
+Please cite our paper if you use this code in your own work:
+
+```
+@article{du2017semi,
+  title={Semi-supervised Bayesian Deep Multi-modal Emotion Recognition},
+  author={Du, Changde and Du, Changying and Li, Jinpeng and Zheng, Wei-long and Lu, Bao-liang and He, Huiguang},
+  journal={arXiv preprint arXiv:1704.07548},
+  year={2017}
+}
+```
+
 ## Credits
 
 1. [semisupervised_vae](https://github.com/saemundsson/semisupervised_vae)
+2. [Sharing deep generative representation for perceived image reconstruction from human brain activity](https://arxiv.org/pdf/1704.07575.pdf)
 
